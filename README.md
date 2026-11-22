@@ -18,14 +18,16 @@ Take the role of a research analyst: cover a listed company end to end — busin
 
 ## Results
 
+![NVIDIA revenue by fiscal year bar chart showing a slow climb from $9.7B in 2018 to $27.0B in 2023, then an inflection to $60.9B in 2024, a 126% year-over-year increase](revenue_growth.png)
+
 | Output | Value |
 |---|---|
 | Recommendation | **Buy** |
 | Implied price (optimistic) | $193.95 |
 | Upside | ~43% |
 | 10-year total return | ~90.44% |
-| FY2023 revenue | $26.91B (+61% YoY) |
-| FY2023 net income | $9.75B |
+| FY2024 revenue | $60.92B (+126% YoY) |
+| FY2024 net income | $29.76B |
 
 ## Deliverables
 
