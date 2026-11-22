@@ -29,9 +29,9 @@ Take the role of a research analyst: cover a listed company end to end — busin
 
 ## Deliverables
 
-- [`NVIDIA FINAL EQUITY REPORT .docx`](NVIDIA%20FINAL%20EQUITY%20REPORT%20.docx) — the full research report.
-- [`NVIDIA_Equity_Report_PP.pptx`](NVIDIA_Equity_Report_PP.pptx) — the pitch deck.
-- [`NVIDIA_Excel.xlsx`](NVIDIA_Excel.xlsx) — the valuation / financial model.
+- [`nvidia_equity_research_report.docx`](nvidia_equity_research_report.docx) — the full research report.
+- [`nvidia_equity_research_presentation.pptx`](nvidia_equity_research_presentation.pptx) — the pitch deck.
+- [`nvidia_valuation_model.xlsx`](nvidia_valuation_model.xlsx) — the valuation / financial model.
 
 ## Stack
 
